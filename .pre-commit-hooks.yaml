@@ -6,5 +6,5 @@
     'files': (docker-)?compose\.ya?ml$
     args: []
     require_serial: false
-    additional_dependencies: ["dclint@2.2.1"]
+    additional_dependencies: ["dclint@2.2.2"]
     minimum_pre_commit_version: '0'
