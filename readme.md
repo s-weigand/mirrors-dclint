@@ -1,5 +1,9 @@
+# Archived
 
-# dclint mirror
+Use the official hook from https://github.com/docker-compose-linter/pre-commit-dclint instead
+
+
+## dclint mirror
 
 Mirror of dclint package for pre-commit.
 
